@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "A20 Constructions | Location de Pompes et Malaxeurs a Beton au Maroc",
-    "description": "A20 Constructions - Location de pompes a beton et malaxeurs a Casablanca et au Maroc. Plus de 10 ans d'experience dans le secteur du BTP."
+    "title": "A20 Constructions | Location de Pompes a Beton et Malaxeurs au Maroc",
+    "description": "Louez des pompes a beton a fleche (56m, 58m, 62m) et des camions malaxeurs 15m3 a Casablanca et au Maroc. Plus de 10 ans d'experience terrain."
   },
   "nav": {
     "home": "Accueil",
@@ -12,16 +12,14 @@
     "quote": "Demander un Devis"
   },
   "hero": {
-    "title": "Votre Partenaire Beton au Maroc",
-    "subtitle": "Location de pompes a beton et malaxeurs pour vos chantiers. Flotte moderne, service fiable, disponibilite immediate.",
-    "cta": "Demander un Devis",
-    "ctaSecondary": "Decouvrir Notre Flotte",
+    "title": "Du Materiel Beton Fiable, Pret a l'Emploi",
+    "subtitle": "Pompes a fleche jusqu'a 62 metres et malaxeurs 15m3, disponibles pour vos chantiers a Casablanca et partout au Maroc.",
+    "cta": "Devis Gratuit",
+    "ctaSecondary": "Voir Notre Flotte",
     "stat1Label": "Ans d'Experience",
     "stat1Value": "10+",
     "stat2Label": "Pompes a Beton",
     "stat2Value": "3",
-    "stat5Label": "Portee Max",
-    "stat5Value": "62m",
     "stat3Label": "Malaxeurs",
     "stat3Value": "3",
     "stat4Label": "Capacite Malaxeur",
@@ -29,12 +27,12 @@
   },
   "fleet": {
     "title": "Notre Flotte",
-    "subtitle": "Du materiel performant et bien entretenu pour garantir la reussite de vos projets.",
+    "subtitle": "Pompes Zoomlion et XCMG sur chassis Mercedes-Benz, malaxeurs Sitrak — entretenues regulierement et pretes a intervenir.",
     "pumps": "Pompes a Beton",
-    "mixers": "Malaxeurs a Beton",
+    "mixers": "Camions Malaxeurs",
     "pump1": {
       "name": "Pompe a Beton - Fleche 56m",
-      "description": "Zoomlion ZLJ5441THBBE sur chassis Mercedes-Benz Actros. Fleche de 56 metres, debit de 180 m3/h. Ideale pour les chantiers de moyenne a grande envergure.",
+      "description": "Zoomlion ZLJ5441THBBE sur chassis Mercedes-Benz Actros. Debit de 180 m3/h et portee de 56 metres — le choix fiable pour les chantiers moyens a grands.",
       "specs": {
         "reach": "Portee: 56m",
         "type": "Pompe a fleche",
@@ -43,7 +41,7 @@
     },
     "pump3": {
       "name": "Pompe a Beton - Fleche 58m",
-      "description": "XCMG Schwing Tech HB56V sur chassis Mercedes-Benz Actros 4143. Fleche de 58 metres, technologie Schwing. Polyvalente pour tous types de chantiers.",
+      "description": "XCMG Schwing Tech HB56V sur chassis Mercedes-Benz Actros 4143. Fleche de 58 metres avec technologie Schwing — polyvalente et adaptee a tout type de chantier.",
       "specs": {
         "reach": "Portee: 58m",
         "type": "Pompe a fleche",
@@ -52,7 +50,7 @@
     },
     "pump2": {
       "name": "Pompe a Beton - Fleche 62m",
-      "description": "Zoomlion ZLJ5441THBBE sur chassis Mercedes-Benz Actros 4143. Fleche de 62 metres pour les projets les plus ambitieux. Portee maximale pour les grands chantiers.",
+      "description": "Zoomlion ZLJ5441THBBE sur chassis Mercedes-Benz Actros 4143. Notre plus grande portee a 62 metres — concue pour les tours et les grands chantiers.",
       "specs": {
         "reach": "Portee: 62m",
         "type": "Pompe a fleche",
@@ -60,85 +58,85 @@
       }
     },
     "mixer": {
-      "name": "Malaxeur a Beton - 15m3",
-      "description": "Malaxeur a beton d'une capacite de 15m3 pour un approvisionnement efficace et continu sur vos chantiers.",
+      "name": "Camion Malaxeur - 15m3",
+      "description": "Camions Sitrak equipes de cuves Lin Yu. 15 metres cubes par charge pour un approvisionnement continu sans interruption.",
       "specs": {
-        "capacity": "Capacite: 15m3",
-        "count": "3 unites disponibles",
+        "capacity": "15m3 par charge",
+        "count": "3 camions disponibles",
         "availability": "Disponible"
       }
     },
     "requestQuote": "Demander un Devis"
   },
   "services": {
-    "title": "Nos Services",
-    "subtitle": "Des solutions completes pour tous vos besoins en materiel de BTP.",
+    "title": "Ce Que Nous Faisons",
+    "subtitle": "De la location journaliere au sourcing complet — on s'occupe de la logistique pour que vous puissiez vous concentrer sur la construction.",
     "rental": {
       "title": "Location de Materiel",
-      "description": "Location journaliere de pompes a beton et malaxeurs. Materiel moderne et bien entretenu, disponible pour vos chantiers a Casablanca et dans tout le Maroc.",
+      "description": "Besoin d'une pompe ou d'un malaxeur pour un jour, une semaine ou plus ? On livre sur votre chantier a Casablanca et partout au Maroc, avec support technique en permanence.",
       "features": [
-        "Location journaliere flexible",
-        "Materiel moderne et entretenu",
-        "Livraison sur chantier",
-        "Support technique inclus"
+        "Location a la journee, sans engagement",
+        "Materiel recent et entretenu regulierement",
+        "Livraison et mise en place sur chantier",
+        "Support technique disponible"
       ]
     },
     "sales": {
       "title": "Achat & Vente de Materiel",
-      "description": "Nous proposons a la vente les machines de notre catalogue. Materiel d'occasion en excellent etat, pret a l'emploi.",
+      "description": "Envie d'acquerir votre propre materiel ? Nous vendons des machines inspectees de notre flotte et sourcons du materiel de qualite aupres de fournisseurs de confiance.",
       "features": [
-        "Machines disponibles en stock",
-        "Materiel inspecte et certifie",
-        "Prix competitifs",
-        "Accompagnement a l'achat"
+        "Machines en stock pretes a l'emploi",
+        "Chaque unite inspectee avant vente",
+        "Prix justes et transparents",
+        "Accompagnement complet a l'achat"
       ]
     },
     "sourcing": {
       "title": "Sourcing & Importation",
-      "description": "Nous sourcons le materiel dont vous avez besoin aupres de nos fournisseurs internationaux et prenons en charge tout le processus d'importation.",
+      "description": "Vous ne trouvez pas ce qu'il vous faut au Maroc ? On source le materiel chez nos fournisseurs internationaux et on gere le dedouanement, l'homologation et la livraison.",
       "features": [
-        "Reseau de fournisseurs internationaux",
-        "Dedouanement complet",
-        "Homologation au Maroc",
-        "Accompagnement de A a Z"
+        "Reseau de fournisseurs internationaux fiables",
+        "Dedouanement pris en charge integralement",
+        "Homologation et conformite marocaine",
+        "Processus cle en main, sans tracas"
       ]
     }
   },
   "about": {
     "title": "A Propos de A20 Constructions",
-    "subtitle": "Un partenaire de confiance pour vos projets de construction.",
-    "description": "Fondee en 2025, A20 Constructions est le fruit de plus de 10 ans d'experience dans le secteur du BTP et de l'importation de materiel de construction. Notre equipe possede une expertise approfondie acquise au sein de nos partenaires d'importation, ce qui nous permet de vous offrir un service complet et fiable.",
+    "subtitle": "Batis sur l'experience. Guides par la fiabilite.",
+    "description": "A20 Constructions a ete fondee en 2025, mais notre expertise remonte a plus d'une decennie. Notre equipe a forge son savoir-faire aux cotes de partenaires d'importation majeurs, en maitrisant chaque etape de la chaine — du sourcing au dedouanement jusqu'a la mise en service. C'est cette experience qui nous permet de fournir un materiel et un service sur lesquels vous pouvez compter.",
     "values": {
       "experience": {
-        "title": "Experience",
-        "description": "Plus de 10 ans d'expertise dans le materiel BTP et l'importation"
+        "title": "Savoir-Faire",
+        "description": "Plus de 10 ans dans le materiel BTP et l'import — on connait les machines et le marche"
       },
       "reliability": {
-        "title": "Fiabilite",
-        "description": "Du materiel entretenu et un service ponctuel pour ne jamais bloquer vos chantiers"
+        "title": "Zero Arret de Chantier",
+        "description": "Notre flotte est entretenue regulierement et on respecte les delais — parce que votre planning de coulage n'attend pas"
       },
       "proximity": {
-        "title": "Proximite",
-        "description": "Bases a Casablanca, nous sommes proches de vos chantiers et reactifs a vos besoins"
+        "title": "Presence Locale",
+        "description": "Bases a Casablanca, on est proches de vos chantiers et reactifs quand les plans changent"
       }
     }
   },
   "contact": {
-    "title": "Contactez-Nous",
-    "subtitle": "Besoin d'un devis ou d'informations? N'hesitez pas a nous contacter.",
+    "title": "Parlons-en",
+    "subtitle": "Besoin d'un devis, une question, ou verifier la disponibilite ? Contactez-nous — on repond vite.",
     "phone": "Telephone",
     "email": "Email",
-    "address": "Adresse",
+    "address": "Localisation",
     "addressValue": "Casablanca, Maroc",
-    "whatsapp": "Nous contacter sur WhatsApp",
+    "whatsapp": "Ecrivez-nous sur WhatsApp",
     "callUs": "Appelez-nous",
     "emailUs": "Envoyez-nous un email",
-    "available": "Disponible du Lundi au Samedi"
+    "available": "Lundi au Samedi"
   },
   "footer": {
-    "description": "A20 Constructions - Location et vente de pompes a beton et malaxeurs au Maroc.",
+    "description": "Location, vente et sourcing de pompes a beton et camions malaxeurs au Maroc.",
     "quickLinks": "Liens Rapides",
-    "contactInfo": "Contact",
+    "contactInfo": "Nous Contacter",
     "rights": "Tous droits reserves."
   }
 }

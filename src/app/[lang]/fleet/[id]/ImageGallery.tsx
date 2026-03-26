@@ -43,12 +43,12 @@ export default function ImageGallery({ images, alt }: { images: string[]; alt: s
 
       {/* Thumbnails */}
       {images.length > 1 && (
-        <div className="flex gap-3 mt-4 overflow-x-auto pb-2">
+        <div className="flex gap-2 sm:gap-3 mt-3 sm:mt-4 overflow-x-auto pb-2">
           {images.map((img, i) => (
             <button
               key={i}
               onClick={() => setSelected(i)}
-              className={`relative w-20 h-20 rounded-xl overflow-hidden flex-shrink-0 border-2 transition-all ${
+              className={`relative w-16 h-16 sm:w-20 sm:h-20 rounded-lg sm:rounded-xl overflow-hidden flex-shrink-0 border-2 transition-all ${
                 i === selected ? 'border-primary shadow-md' : 'border-transparent opacity-70 hover:opacity-100'
               }`}
             >

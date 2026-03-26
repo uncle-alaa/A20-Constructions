@@ -2,12 +2,12 @@ import { Locale } from '../dictionaries'
 
 const content: Record<Locale, { title: string; items: { icon: string; title: string; desc: string }[] }> = {
   fr: {
-    title: 'Pourquoi A20 Constructions ?',
+    title: 'Pourquoi Nous Choisir ?',
     items: [
-      { icon: 'clock', title: 'Disponibilite Immediate', desc: 'Materiel pret a l\'emploi, livraison rapide sur vos chantiers a Casablanca et au Maroc.' },
-      { icon: 'shield', title: 'Materiel Fiable & Recents', desc: 'Flotte recente et regulierement entretenue. Zoomlion sur chassis Mercedes-Benz.' },
-      { icon: 'wallet', title: 'Tarifs Competitifs', desc: 'Location journaliere aux prix du marche. Devis gratuit et sans engagement.' },
-      { icon: 'users', title: '10+ Ans d\'Experience', desc: 'Une equipe experimentee qui comprend vos besoins et vous accompagne sur chaque projet.' },
+      { icon: 'clock', title: 'Pret Quand Vous l\'Etes', desc: 'Nos machines sont entretenues et disponibles. On livre sur votre chantier rapidement — sans attente.' },
+      { icon: 'shield', title: 'Materiel de Confiance', desc: 'Pompes Zoomlion et XCMG sur chassis Mercedes-Benz, avec une maintenance reguliere garantie.' },
+      { icon: 'wallet', title: 'Tarifs Justes et Transparents', desc: 'Location a la journee aux prix du marche, sans frais caches. Devis gratuit en quelques minutes.' },
+      { icon: 'users', title: 'Plus de 10 Ans de Terrain', desc: 'Notre equipe connait le metier sur le bout des doigts. On comprend votre chantier et on s\'adapte.' },
     ],
   },
   en: {

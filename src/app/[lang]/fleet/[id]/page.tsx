@@ -88,42 +88,42 @@ export default async function EquipmentPage({ params }: { params: Promise<{ lang
           </Link>
         </div>
 
-        <div className="grid lg:grid-cols-5 gap-10">
-          {/* Gallery - 3 cols */}
+        <div className="grid lg:grid-cols-5 gap-6 lg:gap-10">
+          {/* Gallery */}
           <div className="lg:col-span-3">
             <ImageGallery images={eq.images} alt={`${eq.brand} ${eq.model}`} />
           </div>
 
-          {/* Info - 2 cols */}
+          {/* Info */}
           <div className="lg:col-span-2">
             {/* Type badge */}
-            <div className="flex items-center gap-3 mb-4">
-              <span className="bg-primary/10 text-primary-dark px-3 py-1 rounded-full text-sm font-semibold">
+            <div className="flex flex-wrap items-center gap-2 mb-4">
+              <span className="bg-primary/10 text-primary-dark px-3 py-1 rounded-full text-xs sm:text-sm font-semibold">
                 {typeName}
               </span>
               {eq.available && (
-                <span className="bg-green-100 text-green-700 px-3 py-1 rounded-full text-sm font-semibold">
+                <span className="bg-green-100 text-green-700 px-3 py-1 rounded-full text-xs sm:text-sm font-semibold">
                   {rentalLabel[locale]}
                 </span>
               )}
             </div>
 
             {/* Title */}
-            <h1 className="text-2xl sm:text-3xl font-bold text-secondary mb-2">
+            <h1 className="text-xl sm:text-2xl lg:text-3xl font-bold text-secondary mb-1">
               {eq.brand} {eq.model}
             </h1>
-            <p className="text-gray-500 mb-6">{eq.year}</p>
+            <p className="text-gray-500 mb-5">{eq.year}</p>
 
             {/* Specs table */}
             <div className="bg-white rounded-2xl border border-gray-200 overflow-hidden mb-6">
-              <div className="px-6 py-4 bg-gray-50 border-b border-gray-200">
-                <h2 className="font-bold text-secondary">{specsTitle[locale]}</h2>
+              <div className="px-4 sm:px-6 py-3 sm:py-4 bg-gray-50 border-b border-gray-200">
+                <h2 className="font-bold text-secondary text-sm sm:text-base">{specsTitle[locale]}</h2>
               </div>
               <div className="divide-y divide-gray-100">
                 {Object.entries(specs).map(([key, value]) => (
-                  <div key={key} className="flex justify-between px-6 py-3">
-                    <span className="text-gray-500 text-sm">{key}</span>
-                    <span className="font-semibold text-secondary text-sm">{value}</span>
+                  <div key={key} className="flex justify-between items-start gap-4 px-4 sm:px-6 py-3">
+                    <span className="text-gray-500 text-xs sm:text-sm">{key}</span>
+                    <span className="font-semibold text-secondary text-xs sm:text-sm text-right">{value}</span>
                   </div>
                 ))}
               </div>
