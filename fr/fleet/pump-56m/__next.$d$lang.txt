@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[39756,["/a20-constructions/_next/static/chunks/01xlw8hd842-c.js","/a20-constructions/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+3:I[37457,["/a20-constructions/_next/static/chunks/01xlw8hd842-c.js","/a20-constructions/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+:HL["/a20-constructions/_next/static/chunks/0tx-kzdg44gub.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/a20-constructions/_next/static/chunks/0tx-kzdg44gub.css","precedence":"next"}]],["$","html",null,{"lang":"fr","dir":"ltr","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"LagKNbRvwV0XbxZ61sCa2"}
